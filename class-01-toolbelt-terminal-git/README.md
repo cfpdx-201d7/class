@@ -3,21 +3,17 @@
 <a id="top"></a>
 # Today's Plan: Week 1, Monday Lecture
 
-This first day of class is an all-day session with the students that is mostly lecture.
-
-- [Kickoff! (with slides)](#kickoff) *[30 minutes]*
-- [Academic Overview (with slides)](#academic) *[60 minutes]*
-- [Unix & Git (with slides)](#ug) *[60 minutes]*
-- [Go over the assigned readings](#readings) *[30 minutes]*
+- [Unix & Git (with slides)](#ug)
+- [Go over the assigned readings](#readings)
 
 *Lunch Break*
 
-- [Continuing going over the assigned readings](#readings) *[30-60 minutes]*
-- [Code demo to prep for lab](#code) *[60 minutes]*
-- [LAB](#lab) *[until 5:00]*
+- [Continuing going over the assigned readings](#readings)
+- [Code demo to prep for lab](#code)
+- [LAB](#lab)
   - Write code as outlined in the lab assignment
-  - [Set up a JavaScript linter](#linter) *[15 minutes after Unix/Git is finished]*
-  - [Verify Student Toolbelts](#toolbelt) *[30-45 minutes]*
+  - [Set up a JavaScript linter](#linter)
+  - [Verify Student Toolbelts](#toolbelt)
 
 **Learning Objectives**
 
@@ -128,11 +124,9 @@ Have students go to the command line and `apm install linter-eslint`. Have them 
 - p.30 	Events
 - p.36 	Browsers & document object
 - p.40 	How a browser sees a web page
-- p.44 	How HTML, CSS, JS work together			
+- p.44 	How HTML, CSS, JS work together
 - p.45 	Progressive enhancement
 - p.51 	JavaScript runs where it is found in the HTML
-
-**We also need to discuss the role of *pseudocode*, which is something the Duckett text does not cover very well.
 
 [-top-](#top)
 
