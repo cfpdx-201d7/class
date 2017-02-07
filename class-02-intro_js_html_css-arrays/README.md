@@ -9,8 +9,7 @@
 
 - [Topics from HTML readings](#html)
 - [Topics from CSS readings](#css)
-- [Topics from JS readings](#js
-- *15 minute break*
+- [Topics from JS readings](#js)
 - [Learning Journal + `git init`](#lj)
 - [Review lab assignment, code demo, `git clone`](#code)
 
