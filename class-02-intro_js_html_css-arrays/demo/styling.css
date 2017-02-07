@@ -1,0 +1,15 @@
+body {
+  font-family: Helvetica;
+}
+
+h1 {
+  font-family: Arial;
+}
+
+section, li {
+  outline: 1px dashed blue;
+}
+
+nav .menu-item {
+  background-color: purple;
+}
