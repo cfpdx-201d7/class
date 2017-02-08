@@ -1,0 +1,25 @@
+div {
+  outline: 1px solid blue;
+}
+
+h1 {
+  margin: 0px;
+}
+
+.one {
+  margin: 10px;
+  border: 1px solid blue;
+  padding: 10px;
+}
+
+.two {
+  margin: 20px 0px;
+  border: 5px dashed yellow;
+  padding: 0px 15px;
+}
+
+.three {
+  margin: 10px 0px 5px 20px;
+  border: 4px dotted red;
+  padding: 5px 2px 3px 19px;
+}
